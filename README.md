@@ -1,3 +1,3 @@
 # Reseau-Entreprise
 
-lire le pdf pour toute les informations
+lire le pdf pour toutes les informations
